@@ -15,3 +15,4 @@ else{
 
 alert(person.slice(parseInt(a),parseInt(b)))
 }
+
